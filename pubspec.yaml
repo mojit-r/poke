@@ -1,0 +1,47 @@
+name: poke
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # flutter_inset_box_shadow: ^1.0.7
+
+#   flutter_launcher_icons: ^0.14.4
+
+# # flutter Launcer Icons for changing the app icon 
+# flutter_launcher_icons:
+#   android: "launcher_icon"
+#   ios: true
+#   image_path: "assets/icon/custom_icon_2.ico"
+#   adaptive_icon_foreground: "assets/icon/custom_icon_2.ico"
+#   adaptive_icon_background: "#ffffff"
+#   min_sdk_android: 21 # android min sdk min:16, default 21
+#   remove_alpha_ios: true
+#   web:
+#     generate: true
+#     image_path: "assets/icon/icon.png"
+#     background_color: "#ffffff"
+#     theme_color: "#3F51B5"
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/first_card/
+    - assets/images/second_card/
+    - assets/images/third_card/
+    - assets/images/fourth_card/
+    - assets/icon/icon.png
+    - assets/icon/custom_icon_1.ico
+    - assets/icon/custom_icon_2.ico
