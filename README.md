@@ -54,8 +54,21 @@ lib/
 ---
 
 ## 📸 Screenshots / Demo  
-(Screenshots would be added soon)  
-![App Demo](assets/screenshots/demo.gif)  
+
+Here are some previews of the Poke App in action:  
+
+| Home Screen | Bulbasaur Evolutions | Bulbasaur Evolutions |
+|-------------|----------------------|------------------------|
+| ![Home](assets/screenshots/one_1.png) | ![Ivysaur](assets/screenshots/one_2.png) | ![Venusaur](assets/screenshots/one_3.png) |
+
+| Mega Evolution Example | Charmander Evolutions | Squirtle Example |
+|---------------------|---------------------|------------------------|
+| ![Mega Evolution](assets/screenshots/one_special.png) | ![Charmander](assets/screenshots/two.png) | ![Squirtle](assets/screenshots/three.png) |
+
+| Pichu Evolutions |
+|------------------|
+| ![Pichu](assets/screenshots/four.png) |
+
 
 ---
 
