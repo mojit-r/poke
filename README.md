@@ -58,16 +58,16 @@ lib/
 Here are some previews of the Poke App in action:  
 
 | Home Screen | Bulbasaur Evolutions | Bulbasaur Evolutions |
-|-------------|----------------------|------------------------|
-| ![Home](assets/screenshots/one_1.png) | ![Ivysaur](assets/screenshots/one_2.png) | ![Venusaur](assets/screenshots/one_3.png) |
+|-------------|----------------------|----------------------|
+| <img src="assets/screenshots/one_1.png" height="500" alt="Home Screen"/> | <img src="assets/screenshots/one_2.png" height="500" alt="Ivysaur Evolution Screen"/> | <img src="assets/screenshots/one_3.png" height="500" alt="Venusaur Evolution Screen"/> |
 
 | Mega Evolution Example | Charmander Evolutions | Squirtle Example |
-|---------------------|---------------------|------------------------|
-| ![Mega Evolution](assets/screenshots/one_special.png) | ![Charmander](assets/screenshots/two.png) | ![Squirtle](assets/screenshots/three.png) |
+|-------------------------|-----------------------|------------------|
+| <img src="assets/screenshots/one_special.png" height="500" alt="Mega Venusaur Evolution Screen"/> | <img src="assets/screenshots/two.png" height="500" alt="Charmander Evolution Screen"/> | <img src="assets/screenshots/three.png" height="500" alt="Squirtle Evolution Screen"/> |
 
 | Pichu Evolutions |
 |------------------|
-| ![Pichu](assets/screenshots/four.png) |
+| <img src="assets/screenshots/four.png" height="500" alt="Pichu Evolution Screen"/> |
 
 
 ---
